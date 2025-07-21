@@ -189,40 +189,40 @@ A robust, fully automated MetaTrader 5 Expert Advisor (EA) that trades **mean-re
 ## 📚 Example Output (Logs/Notifications)
 
 === EXECUTING SHORT TRADE ===
-Server Time: 2025.07.21 09:16:05
-Entry Price: 1.27563
-Stop Loss: 1.27693
-Take Profit: 1.27368
-SL Distance: 13.0 pips
-TP Distance: 29.5 pips
-Risk:Reward = 1:1.50
-Risk Amount: $20.00
-Calculated Lot Size: 0.12
-Trade Request Sent...
-Result Code: 10009
-Deal: 123456789
-Order: 987654321
-Volume: 0.12
-Price: 1.27563
-Comment: Asian Range SHORT v2.03
-✅ SHORT TRADE SUCCESSFULLY EXECUTED!
+- Server Time: 2025.07.21 09:16:05
+- Entry Price: 1.27563
+- Stop Loss: 1.27693
+- Take Profit: 1.27368
+- SL Distance: 13.0 pips
+- TP Distance: 29.5 pips
+- Risk:Reward = 1:1.50
+- Risk Amount: $20.00
+- Calculated Lot Size: 0.12
+- Trade Request Sent...
+- Result Code: 10009
+- Deal: 123456789
+- Order: 987654321
+- Volume: 0.12
+- Price: 1.27563
+- Comment: Asian Range SHORT v2.03
+- ✅ SHORT TRADE SUCCESSFULLY EXECUTED!
 
 ---
 
 ## Telegram Example
 
-🤖 Asian Range EA v2.03
-📈 Symbol: EURUSD
-🕐 Time: 2025.07.21 09:16
-💰 Balance: $1020.36
+- 🤖 Asian Range EA v2.03
+- 📈 Symbol: EURUSD
+- 🕐 Time: 2025.07.21 09:16
+- 💰 Balance: $1020.36
 
-✅ İŞLEM AÇILDI
-📊 Direction: SHORT
-💰 Entry Price: 1.27563
-🛑 Stop Loss: 1.27693
-🎯 Take Profit: 1.27368
-📦 Lot Size: 0.12
-💵 Risk Amount: $20.00
+- ✅ İŞLEM AÇILDI
+- 📊 Direction: SHORT
+- 💰 Entry Price: 1.27563
+- 🛑 Stop Loss: 1.27693
+- 🎯 Take Profit: 1.27368
+- 📦 Lot Size: 0.12
+- 💵 Risk Amount: $20.00
 
 ---
 
